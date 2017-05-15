@@ -4,9 +4,9 @@
 	<meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 	<title>学生管理系统</title>
 </head>
-<h2>学生管理系统</h2>
-<a href="index.php"> 浏览学生</a>
-<a href="add.php"> 添加学生</a>
+<h2 align='center'>学生管理系统</h2>
+<a href="index.php" align='center'> 浏览学生</a>
+<a href="add.php" align='center'> 添加学生</a>
 <body>
 </body>
 </html>
